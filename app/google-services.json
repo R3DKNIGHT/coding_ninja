@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441940190456",
+    "firebase_url": "https://codingninja-1.firebaseio.com",
+    "project_id": "codingninja-1",
+    "storage_bucket": "codingninja-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441940190456:android:17107e7b1f999144f5070d",
+        "android_client_info": {
+          "package_name": "com.example.codingninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441940190456-7hie5d2tg21qjg4agkvllhv6ps8fm7js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH6KzH8jG8D_hLoGJOuvHHSKoKL0JYMMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441940190456-7hie5d2tg21qjg4agkvllhv6ps8fm7js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
